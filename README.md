@@ -11,9 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,6 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
+Page image and then page image with active button.
 ![](./design/desktop-solution.png)
 ![](./design/active-states-solution.png)
 
@@ -39,6 +38,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+
+### Continued development
+
+The page is not responsive, therefore, I intend to learn about this subject, as well as improve my knowledge in styling web pages.
 
 ## Author
 
